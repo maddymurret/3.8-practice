@@ -268,3 +268,10 @@ body {
 .privateer {
   font-family: "privateer", serif;
 }
+
+.full-height {
+  main-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
